@@ -5,3 +5,7 @@ var habiJabi = 'Yoyo' + birthDay;
 console.log(age);
 console.log(name);
 console.log(habiJabi);
+
+
+var tshirt  = 32 ; 
+console.log(typeof tshirt);
