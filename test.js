@@ -42,3 +42,6 @@ for (var i = 0 ; i < 10 ; i++){
 }
 var name = 'false';
 console.log(typeof name);
+
+var abc = 'bangladesh'
+console.log(abc.indexOf('desh'));
